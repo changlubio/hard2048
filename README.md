@@ -1,11 +1,11 @@
-#  Key new features
+#  Key new feature
 
 - Puzzle Creation: Create custom starting positions for challenges
 - Testing: Set up specific board states to test strategies
 - Education: Demonstrate specific game scenarios
 - Accessibility: Skip early game progression for advanced practice
 
-## Setup Mode 
+**Setup Mode**
 
 New "Setup Mode" button alongside "New Game", which allows switching between play mode and setup mode.
 
@@ -13,6 +13,12 @@ New "Setup Mode" button alongside "New Game", which allows switching between pla
 - Save Setup
 - Load Setup
 - Start Game: Exit setup mode and begin playing from custom position
+
+**Screenshot**
+I used to spend too much time getting to 4096, 8192 aimming to get to the 16384 tile, and really wished there is a way to skip the easy part fast. So this one does that.
+
+<img width="516" height="819" alt="image" src="https://github.com/user-attachments/assets/940c404b-df80-475d-984c-e0da9c2f835c" />
+
 
 
 # Cloned from the original 2048
