@@ -1,7 +1,24 @@
-# 2048
+#  Key new features
+
+- Puzzle Creation: Create custom starting positions for challenges
+- Testing: Set up specific board states to test strategies
+- Education: Demonstrate specific game scenarios
+- Accessibility: Skip early game progression for advanced practice
+
+## Setup Mode 
+
+New "Setup Mode" button alongside "New Game", which allows switching between play mode and setup mode.
+
+- Clear Grid
+- Save Setup
+- Load Setup
+- Start Game: Exit setup mode and begin playing from custom position
+
+
+# Cloned from the original 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone). 2048 was indirectly inspired by [Threes](https://asherv.com/threes/).
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+Made just for fun. [Play the original here!](http://gabrielecirulli.github.io/2048/)
 
 The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
 
