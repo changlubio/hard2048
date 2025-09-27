@@ -17,7 +17,7 @@ New "Setup Mode" button alongside "New Game", which allows switching between pla
 **Screenshot**
 
 
-I used to spend too much time getting to 4096, 8192 aimming to get to the 16384 tile, and really wished there is a way to skip the easy part fast. So this one does that.
+I wanted to get to the 16384 tile, but spent too much time doing the easy bits of getting to 4096, so really wished there is a way to skip the easy part fast. For example you can do a screenshot of the situation you want to save and load it with this app. 
 
 <img width="516" height="819" alt="image" src="https://github.com/user-attachments/assets/940c404b-df80-475d-984c-e0da9c2f835c" />
 
