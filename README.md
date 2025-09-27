@@ -15,6 +15,8 @@ New "Setup Mode" button alongside "New Game", which allows switching between pla
 - Start Game: Exit setup mode and begin playing from custom position
 
 **Screenshot**
+
+
 I used to spend too much time getting to 4096, 8192 aimming to get to the 16384 tile, and really wished there is a way to skip the easy part fast. So this one does that.
 
 <img width="516" height="819" alt="image" src="https://github.com/user-attachments/assets/940c404b-df80-475d-984c-e0da9c2f835c" />
@@ -22,6 +24,9 @@ I used to spend too much time getting to 4096, 8192 aimming to get to the 16384 
 
 
 # Cloned from the original 2048
+
+> ![Note] the game has minor updates on [Gabriele Cirulli's 2048](https://github.com/gabrielecirulli/2048)
+
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone). 2048 was indirectly inspired by [Threes](https://asherv.com/threes/).
 
 Made just for fun. [Play the original here!](http://gabrielecirulli.github.io/2048/)
