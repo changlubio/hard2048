@@ -1,8 +1,6 @@
 #  Key new feature
 
 - Puzzle Creation: Create custom starting positions for challenges
-- Testing: Set up specific board states to test strategies
-- Education: Demonstrate specific game scenarios
 - Accessibility: Skip early game progression for advanced practice
 
 **Setup Mode**
