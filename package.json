@@ -1,0 +1,14 @@
+{
+  "name": "2048-game",
+  "version": "1.0.0",
+  "description": "A small clone of 1024, based on Saming's 2048. Join the numbers and get to the 2048 tile!",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8001"
+  },
+  "keywords": ["2048", "game", "puzzle", "web-game"],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/2048-game"
+}
