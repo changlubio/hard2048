@@ -3,6 +3,8 @@
 - Puzzle Creation: Create custom starting positions for challenges
 - Accessibility: Skip early game progression for advanced practice
 
+[Play with it here](https://changlubio.github.io/setupmode2048/)
+
 **Setup Mode**
 
 New "Setup Mode" button alongside "New Game", which allows switching between play mode and setup mode.
